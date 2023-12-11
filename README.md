@@ -1,0 +1,1 @@
+Focuses on the management and organization of departments or organizational units. It plays a crucial role in handling tasks related to department creation, modification, and retrieval of information within a broader organizational structure. The department service ensures efficient organization and access to department-specific data.
